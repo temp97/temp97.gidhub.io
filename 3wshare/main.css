@@ -1,0 +1,63 @@
+/* CSS Document */
+/*3wshare css document */
+body{
+font-family:Arial;
+font-size:11px;
+background-color:#1A1B1C;
+margin:0px auto;
+}
+
+#layout{
+margin:0 auto;
+width:921px;
+}
+#left{
+background-color:#212224;
+width:652px;
+float:left;
+
+}
+#right{
+background-color:#212224;
+width:264px;
+float:left;
+margin-left:2px;
+}
+#logo{
+BACKGROUND: url(images/logo.gif) no-repeat center top; 
+height:65px;
+ }
+
+
+
+#l_Banner{
+width:652px;
+height:262px;
+background-image:url(images/banner.jpg);
+margin-top:58px;
+}
+
+a.r_submenu{
+	text-decoration:none;
+	display:block;
+	float:left;
+	background-color:#153AA5;
+	color:#FFFFFF;
+	border:1px solid #212224;
+	text-align:center;
+	padding:30px;
+}
+a.r_submenu:hover{
+	
+	background-color:#FFFFFF;
+	border:1px solid #000;
+	color:#003366;
+
+}
+.menufont{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+text-align:center;
+width:60px
+}
